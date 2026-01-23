@@ -42,3 +42,7 @@ struct wave
 } // namespace wave
 } // namespace audio_codecs
 // N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N N
+
+// G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G
+#endif // WAVE_COMPONENTS_CHUNK_HPP_INCLUDED
+// G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G G
